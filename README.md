@@ -1,4 +1,4 @@
-# TargetPracticeGame
+# UE5 Target Practice Game
 
 Tagret practice game to learn and get comfortable with Unreal Engine 5 and gameplay programming using blueprints
 
